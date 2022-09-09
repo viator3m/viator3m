@@ -1,4 +1,4 @@
-### <h1>Hi there, I'm <a href="https://t.me/viator3m" target="_blank">Vladimir</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"  height="32"/>Beginner python developer</h1>
+### <h1>Hi there, I'm <a href="https://t.me/viator3m" target="_blank">Vladimir</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"  height="32"/>  Beginner python developer</h1>
 I’m currently learning <a href="practicum.yandex.ru" target="_blank">Yandex.Practicum</a>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
