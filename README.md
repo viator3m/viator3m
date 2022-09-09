@@ -9,8 +9,6 @@ I’m currently learning <a href="practicum.yandex.ru" target="_blank">Yandex.Pr
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viator3m&hide=contribs,prs)
-
 ### Contact me:
 
 [<img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-1024.png' alt='telegram' height='40'>](http://t.me/viator3m)
