@@ -6,5 +6,3 @@ My currently technology stack: Python | Django | Django REST Framework | SQLite 
 ### Contact me:
 
 [<img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-1024.png' alt='telegram' height='35'>](http://t.me/viator3m)
-[<img src='https://www.freepngimg.com/thumb/social_media/74310-instagram-icons-media-computer-social-logo.png' alt='instagram' height='40'>](https://www.instagram.com/kamyshanovv/)
-
